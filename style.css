@@ -1,4 +1,13 @@
-h1{
-    color:rgb(99, 0, 99);
-    background-color: skyblue;
+.header{
+    background-image: ;
+}
+.header-logo{
+    font-size:large;
+    font-color:rgba(255, 0, 0, 0.11);
+
+
+}
+.contents-item{
+    float:left;
+    margin-right:40px;
 }
