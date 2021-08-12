@@ -1,13 +1,79 @@
+
 .header{
-    background-image: ;
+    background-image:url(https://cdn.pixabay.com/photo/2018/04/13/17/57/background-3317139_960_720.jpg);
+    background-position:50%; 
+　  background-repeat:no-repeat;
+    background-size: cover;
+
 }
 .header-logo{
-    font-size:large;
-    font-color:rgba(255, 0, 0, 0.11);
+    font-size:  180px;
+    color:#50312F;
+    padding-left: 20px;
+    font-family:Times New Roman;
+    padding-bottom: 30px;
+}
+.pictures{
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
+
+
+a{
+    list-style: none;
+    padding:20px 30px 60px 30px;
+}
+ul{
+    display:flex;
+    
+}
+body{
+    background-color: rgb(240, 169, 250);
 
 }
+h1{
+    color: rgb(122, 36, 50);
+}
+.main{
+    display:flex;
+  flex-flow: column;
+}
+
+.contents{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .contents-item{
-    float:left;
-    margin-right:40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    float: left;
+
 }
+
+.contents2{
+    padding-bottom: 30px;
+}
+
+.contents-item2{
+    float: left;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.contents3{
+    float: left;
+    padding-right: 300px;
+    padding-bottom: 30px;
+
+}
+
+
+.contents-item4{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    float: left;
+}
+
