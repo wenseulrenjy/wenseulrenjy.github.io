@@ -22,7 +22,9 @@
 
 a{
     list-style: none;
-    padding:20px 30px 60px 30px;
+    padding:40px 30px 60px 30px;
+    color:rgb(126, 12, 126);
+    font-size: 30px;
 }
 ul{
     display:flex;
@@ -30,14 +32,16 @@ ul{
 }
 body{
     background-color: rgb(240, 169, 250);
-
+    margin: 0px;
 }
+
 h1{
     color: rgb(122, 36, 50);
 }
 .main{
     display:flex;
   flex-flow: column;
+  padding-left: 30px;
 }
 
 .contents{
